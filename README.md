@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi , I`m Islam Tursunaliev 👋
 
 
 ### Languages and Tools:
