@@ -1,6 +1,6 @@
 ### Hi , I`m Islam Tursunaliev 👋
 
-
+<img align="left" alt="Space GIF" width="26px" src="image/space.gif" style="padding-right:10px;" />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
