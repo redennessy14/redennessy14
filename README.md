@@ -1,18 +1,21 @@
-### Hi , I`m Islam Tursunaliev 👋
+<table>
+  <tr>
+    <td>
+      <img src="image/space.gif" alt="Space GIF" width="300px" />
+    </td>
+    <td>
+      <h3>Hi, I'm Islam Tursunaliev 👋</h3>
+      <p>
+        I'm a passionate <strong>Full Stack Developer</strong> with a love for creating modern, responsive web applications.
+        I enjoy working across the stack, from building efficient backend systems to crafting sleek user interfaces. 
+        Always learning and staying on top of new technologies to deliver the best possible solutions.
+      </p>
+      <p>
+        📧 Email: <a href="mailto:islamxtursunaliev@gmail.com">islamxtursunaliev@gmail.com</a><br />
+        💬 Telegram: <a href="https://t.me/redennessy" target="_blank"> @redennessy</a><br />
+        🔗 LinkedIn: <a href="https://linkedin.com/in/redennessy" target="_blank">linkedin.com/in/redennessy</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<img align="left" alt="Space GIF" width="26px" src="image/space.gif" style="padding-right:10px;" />
-### Languages and Tools:
-
-<img align="left" alt="Confluence" width="26px" src="./image/confluence.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="./image/html5.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="./image/css3.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="/image/sass.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="./image/javascript.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="./image/react.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="/image/nodedotjs.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="./image/mongodb.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="./image/git.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="./image/github.svg" style="padding-right:10px;" />
-
-<br />
-<br />
