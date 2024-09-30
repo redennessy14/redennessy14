@@ -35,9 +35,6 @@
   <a href="https://about.gitlab.com/">
     <img src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
-  <a href="https://www.ciworldwide.com/">
-    <img src="https://img.shields.io/badge/ci-00B3E3?style=for-the-badge&logo=ci&logoColor=white" alt="CI" />
-  </a>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
