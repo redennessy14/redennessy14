@@ -1,21 +1,28 @@
-<table>
-  <tr>
-    <td>
-      <img src="image/space.gif" alt="Space GIF" width="300px" />
-    </td>
-    <td>
-      <h3>Hi, I'm Islam Tursunaliev 👋</h3>
-      <p>
-        I'm a passionate <strong>Full Stack Developer</strong> with a love for creating modern, responsive web applications.
-        I enjoy working across the stack, from building efficient backend systems to crafting sleek user interfaces. 
-        Always learning and staying on top of new technologies to deliver the best possible solutions.
-      </p>
-      <p>
-        📧 Email: <a href="mailto:islamxtursunaliev@gmail.com">islamxtursunaliev@gmail.com</a><br />
-        💬 Telegram: <a href="https://t.me/redennessy" target="_blank"> @redennessy</a><br />
-        🔗 LinkedIn: <a href="https://linkedin.com/in/redennessy" target="_blank">linkedin.com/in/redennessy</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="image/room.gif" alt="Space GIF" width="800px" />
 
+---
+
+### Привет, я Ислам Турсуналиев 👋
+
+---
+
+Я увлечённый **Full Stack разработчик**, который любит создавать современные, адаптивные веб-приложения.  
+ Мне нравится работать на всём стеке, начиная с разработки эффективных бэкенд-систем и заканчивая созданием пользовательских интерфейсов.  
+ Я всегда учусь и следую за новыми технологиями, чтобы предоставлять наилучшие решения.
+
+---
+
+### Социальные сети:
+
+  <a href="mailto:islamxtursunaliev@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/redennessy">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/redennessy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
